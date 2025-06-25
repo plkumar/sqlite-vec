@@ -8,7 +8,7 @@ Swift bindings for the [sqlite-vec](https://github.com/asg017/sqlite-vec) SQLite
 - 📱 **Cross-platform** - Works on macOS, iOS, watchOS, and tvOS
 - 🔧 **Easy to use** - Simple Swift API built on top of SQLite.swift
 - 🧮 **Multiple data types** - Support for Float32, Float64, and Int8 vectors
-- 📦 **No dependencies** - Bundles sqlite-vec statically compiled
+- 📦 **No dependencies** - Bundles sqlite-vec statically compiled via symbolic link to root
 
 ## Requirements
 
